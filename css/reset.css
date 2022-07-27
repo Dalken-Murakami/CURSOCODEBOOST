@@ -20,9 +20,4 @@ button {
     cursor: pointer;
 }
 
-.container {
-    width: 100%;
-    max-width: 1246px; /*somar mais padding de 15px para nao perder o tamanho da grid*/
-    margin: 0 auto;
-    padding: 0px 15px;  /*deixar o respiro na direita e esquerda*/
-}
+
