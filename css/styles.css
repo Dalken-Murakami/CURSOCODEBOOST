@@ -79,3 +79,9 @@ padding: 72px 0px;
 
 }
 
+
+/*section feature cards*/
+
+.s-card-featured{
+    background-color: var(--gray-colors-100);
+}
