@@ -44,5 +44,38 @@ padding: 72px 0px;
 
 .s-hero .container{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.s-hero .text {
+    width: 100%;
+    max-width: 640px;
+
+}
+.s-hero .text h1 {
+    margin-bottom: 20px;
+}
+
+.s-hero .text p {
+    margin-bottom: 56px;
+    max-width: 488px;
+    font-size: 18px;
+    line-height:150%;
+    color:var(--gray-colors-300);
+}
+.s-hero .text .btn-primary{
+    padding: 1.7rem 3.7rem ;
+}
+
+.s-hero .image{
+    width: 100%;
+    max-width: 480px;
+    height: 496px;
+    background-color: var(--gray-colors-800); 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+
 }
 
