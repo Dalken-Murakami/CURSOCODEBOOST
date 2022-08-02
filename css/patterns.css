@@ -38,3 +38,7 @@ h3 {
     color: var(--gray-colors-400);
 
 }
+
+.menu-item:hover {
+    background-color: blanchedalmond;
+}
